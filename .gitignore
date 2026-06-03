@@ -1,0 +1,15 @@
+venv/
+.venv/
+ml/venv/
+
+__pycache__/
+*.pyc
+
+.env
+
+node_modules/
+
+.vscode/
+
+dist/
+build/
